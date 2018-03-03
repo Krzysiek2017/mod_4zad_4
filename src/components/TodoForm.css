@@ -1,0 +1,20 @@
+﻿.TodoForm {
+	background-color: khaki;
+	font-family: cursive;
+    font-size: 50px;
+	text-align: center;
+	width: 1200px;
+	padding: 20px;
+	border-radius: 20px;
+}
+
+.TodoForm button {
+    background-color: aqua;
+    border-radius: 20%;
+    padding: 5px;
+    margin-left: 10px;
+}
+
+.TodoForm button:hover {
+    background-color: beige;
+}
